@@ -73,14 +73,14 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 
 ## Releases
 
-The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/CHANGELOG.md) provides a summary of changes in each release.
-The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/MIGRATING.md) provides instructions on upgrading from older versions.
+The [changelog](https://github.com/Kanagu-durai/Deluxe-Android-SDK/blob/main/CHANGELOG.md) provides a summary of changes in each release.
+The [migration guide](https://github.com/Kanagu-durai/Deluxe-Android-SDK/blob/main/MIGRATING.md) provides instructions on upgrading from older versions.
 
 
 
 ## Getting Started
 
-Get started with our **[implementation guide](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/AndroidSDK/Docs/ImplementationGuide)** and **[example project](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/AndroidSDK/Sample)**, or browse the **[Android SDK reference guide](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/AndroidSDK/Docs/AndroidSdkReferenceGuide.pdf)** for detailed documentation.
+Get started with our **[implementation guide](https://github.com/Kanagu-durai/Deluxe-Android-SDK/tree/main/AndroidSDK/Docs/ImplementationGuide)** and **[example project](https://github.com/Kanagu-durai/Deluxe-Android-SDK/tree/main/AndroidSDK/Sample)**, or browse the **[Android SDK reference guide](https://github.com/Kanagu-durai/Deluxe-Android-SDK/blob/main/AndroidSDK/Docs/AndroidSdkReferenceGuide.pdf)** for detailed documentation.
   
 ## Support
 
